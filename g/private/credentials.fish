@@ -1,0 +1,1 @@
+set -x MY_TEST_CRED "hello cow"
