@@ -1,1 +1,1 @@
-/nix/store/m5zy3hzm7jzp5fdjy226fc5l8zyc9pah-home-manager-files/s/l/README.md
+/nix/store/sh7cazwvnhr48idbj7sbzz0hqlcb0nxi-home-manager-files/s/l/README.md
